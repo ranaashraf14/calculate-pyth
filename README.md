@@ -1,3 +1,3 @@
 # calculate-pyth
-  caculate in python language
+  caculate in python language.
 Author-Rana Ashraf
