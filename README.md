@@ -1,4 +1,4 @@
 # calculate-pyth
-  caculate in python language.
+  caculator in python language.
   <br>
 Author-Rana Ashraf
